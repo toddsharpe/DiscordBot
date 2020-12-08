@@ -1,0 +1,6 @@
+https://discordapp.com/developers/docs/intro
+https://discordapp.com/developers/applications/578732140456312841/bots
+
+Discord.net
+https://docs.stillu.cc/guides/deployment/deployment.html
+https://docs.stillu.cc/guides/commands/intro.html
